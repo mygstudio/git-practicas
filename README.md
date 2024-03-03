@@ -7,4 +7,4 @@ Esto es una práctica de Git.
 - Confirmar los cambios (git commit)
 - Enviar los cambios a GitHub (git pull)
 
-Esto es todo!
+Esto es todo y ya lo tenemos!
